@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GlobeGazettee/static/css/main.f855e6bc.css",
+    "main.js": "/GlobeGazettee/static/js/main.2056f368.js",
+    "static/js/453.b2157c12.chunk.js": "/GlobeGazettee/static/js/453.b2157c12.chunk.js",
+    "static/media/WIN_20231112_15_47_23_Pro.jpg": "/GlobeGazettee/static/media/WIN_20231112_15_47_23_Pro.76c448a095f8ec480516.jpg",
+    "static/media/ZZ5H.gif": "/GlobeGazettee/static/media/ZZ5H.a1a996746e5e48352c81.gif",
+    "index.html": "/GlobeGazettee/index.html",
+    "main.f855e6bc.css.map": "/GlobeGazettee/static/css/main.f855e6bc.css.map",
+    "main.2056f368.js.map": "/GlobeGazettee/static/js/main.2056f368.js.map",
+    "453.b2157c12.chunk.js.map": "/GlobeGazettee/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2056f368.js"
+  ]
+}
